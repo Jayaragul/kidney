@@ -3,7 +3,8 @@
 This project is a machine learning-based web app to predict kidney disease based on certain health parameters.
 our target is to find weather the patient is in good condition or not
 
-![Snapshot Image](images/Snapshot_2025-04-26_183206_localhost.png)
+![Snapshot Image](Snapshot_2025-04-26_183206_localhost.png)
+
 
 
 
